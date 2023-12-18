@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"> Olá, Eu sou Will. <br><br> Desenvolvedor Backend, Atualmente estou em Maceió. Faço Faculdade de<strong>Análise e Desenvolvimento de Sistemas</strong>, e estou buscando minha primeira oportunidade com Dev e estou Sempre buscando por novos conhecimentos na área de TI.</p>&nbsp;
+<p align="center"> Olá, Eu sou Will. <br><br> <strong>Desenvolvedor Backend</strong>, Atualmente estou em Maceió. Faço Faculdade de<strong> Análise e Desenvolvimento de Sistemas</strong> , e estou buscando minha primeira oportunidade como Desenvolvedor e estou Sempre buscando por novos conhecimentos na área de TI.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=WillVallentin&theme=radical&mode=weekly" />
