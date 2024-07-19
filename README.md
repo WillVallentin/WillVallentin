@@ -1,12 +1,12 @@
 # Olá, Eu Sou Will! 🙋🏻‍♂️
 
 
-Estudante de Análise e Desenvolvimento de Sistemas, recentemente estou em Maceió, buscando minha primneira oportunidade como estágiario, focando no Back-end com Java. 
-Curto tecnologia, livros e um pouco de Games. 
+👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (3° Período), Curto demais tecnologia, atualmente estou estudando Java, e desejo aprofundar meus conhecimentos focando nessa linguagem. Também estou iniciando inglês para lidar com diferentes casos como desenvolvedor. 
+
 
 ## 🚀 Sobre Mim
 
-- 🎓 Estudando lógica de programação em Java.
+- 🎓 Estudando Java.
 - 🌱 Sempre aprendendo algo novo, atualmente focado em Java.
 - 💬 Pergunte-me sobre qualquer coisa relacionado a desenvolvimento de software e tecnologia.
 - 📫 Entrar em Contato: [williamlimavalentin@gmail.com](mailto:seu-email@example.com)
