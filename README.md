@@ -21,7 +21,7 @@ Curto tecnologia, livros e um pouco de Games.
 ## 📫 Contato
 
 - LinkedIn: [William Valentin](https://www.linkedin.com/in/william-valentin-dev/)
-- Email: [williamlimavalentin@gmail.com](mailto:seu-email@example.com)
+- Email: [williamlimavalentin@gmail.com](mailto:williamlimavalentin@gmail.com)
 
 ## 📚 Educação
 
