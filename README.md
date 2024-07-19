@@ -1,41 +1,29 @@
-## Desenvolvedor Backend.
-
-&nbsp;&nbsp;&nbsp;
-
-<p align="center"> Olá, Eu sou Will. <br><br> <strong>Desenvolvedor Backend</strong>, Atualmente estou em Maceió. Faço Faculdade de<strong> Análise e Desenvolvimento de Sistemas</strong> , e estou buscando minha primeira oportunidade como Desenvolvedor</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=WillVallentin&theme=radical&mode=weekly" />
- </div>
- 
- &nbsp;
- &nbsp;
+# Olá, Eu Sou Will! 🙋🏻‍♂️
 
 
+Estudante de Análise e Desenvolvimento de Sistemas, recentemente estou em Maceió, buscando minha primneira oportunidade como estágiario, focando no Back-end com Java. 
+Curto tecnologia, livros e um pouco de Games. 
 
-## Minhas Skills
+## 🚀 Sobre Mim
 
-#### Linguagens de Programação:
+- 🎓 Estudando lógica de programação em Java.
+- 🌱 Sempre aprendendo algo novo, atualmente focado em Java.
+- 💬 Pergunte-me sobre qualquer coisa relacionado a desenvolvimento de software e tecnologia.
+- 📫 Entrar em Contato: [williamlimavalentin@gmail.com](mailto:seu-email@example.com)
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+## 🛠️ Tecnologias e Ferramentas
 
-#### Banco de Dados:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+## 📫 Contato
 
-&nbsp;
-&nbsp;
+- LinkedIn: [William Valentin](https://www.linkedin.com/in/william-valentin-dev/)
+- Email: [williamlimavalentin@gmail.com](mailto:seu-email@example.com)
 
-## Entre em Contato Comigo:
+## 📚 Educação
 
-<div> 
-<a href="https://www.instagram.com/will.vallentin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:williamlimavalentin@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/william-valentin-a96632230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
+- **Análise e Desenvolvimento De Sistemas | Unopar - (2023 - 2025)**
+
