@@ -1,7 +1,7 @@
 # Olá, Eu Sou Will! 🙋🏻‍♂️
 
 
-👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (3° Período), Curto demais tecnologia, atualmente estou estudando Java, e desejo aprofundar meus conhecimentos focando nessa linguagem. Também estou iniciando inglês para lidar com diferentes casos como desenvolvedor. 
+👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (4° Período), Curto demais tecnologia, atualmente estou estudando Java, e desejo aprofundar meus conhecimentos focando nessa linguagem. Também estou iniciando inglês para lidar com diferentes casos como desenvolvedor. 
 
 
 ## 🚀 Sobre Mim
@@ -25,5 +25,5 @@
 
 ## 📚 Educação
 
-- **Análise e Desenvolvimento De Sistemas | Unopar - (2023 - 2025)**
+- **Análise e Desenvolvimento De Sistemas | Unopar - (2023 - 2026)**
 
