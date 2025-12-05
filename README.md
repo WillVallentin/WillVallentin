@@ -53,6 +53,5 @@ Unopar — 5º período (Formando)
 
 📧 **E-mail:** williamlimavalentin@gmail.com  
 📱 **Telefone:** (11) 98678-9032  
-🌐 **Portfólio:** myportfolio.netlify.app  
 📍 **Local:** Maceió - AL  
 
