@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00AFFF&center=true&vCenter=true&width=900&lines=Olá,+sou+William+Valentin!;Desenvolvedor+Frontend!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=DDA0DD&center=true&vCenter=true&width=900&lines=Olá,+sou+William+Valentin!;Desenvolvedor+Frontend!" />
 
 ---
 
