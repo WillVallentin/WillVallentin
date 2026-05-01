@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor Frontend em formação, 23 anos, motivado, autodidata e apaixonado por criar interfaces rápidas, modernas e funcionais.  
+Desenvolvedor Fullstack em formação, 23 anos, motivado, autodidata e dedicado por criar interfaces rápidas, modernas e funcionais.  
 Possuo sólida base em **JavaScript, React, Next.js, Node.js e TypeScript**, além de experiência real desenvolvendo sites e soluções web.
 
 ---
@@ -43,8 +43,7 @@ Possuo sólida base em **JavaScript, React, Next.js, Node.js e TypeScript**, al�
 
 ## 🎓 Formação
 
-**Análise e Desenvolvimento de Sistemas**  
-Unopar — 5º período (Formando)
+**Análise e Desenvolvimento de Sistemas**  5º período (Formando)
 
 ---
 
